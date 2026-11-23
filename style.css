@@ -289,3 +289,10 @@ html{
         font-size: 16px;
     }
 }
+.site-logo{
+    display: block;
+    width: 180px;
+    max-width: 60%;
+    height: auto;
+    margin: 0 auto 20px;
+}
